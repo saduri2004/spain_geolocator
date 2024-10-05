@@ -1,4 +1,4 @@
-# README for GPS Coordinate Prediction from Image Features
+# GPS Coordinate Prediction from Image Features
 
 ## Overview
 
